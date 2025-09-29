@@ -36,7 +36,7 @@ This is why I found myself forced to open this repository that is a patchset for
 
 If you want an improved experience with kwin_x11 check out [guiodic's guide](https://gist.github.com/guiodic/2bcc8f2f126d14b1f8a439f644fdc2c9).
 
-For more on Wayland's problems [see also this](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277=).
+For more on Wayland's problems [see also this](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277).
 
 ## KWin is not
 
